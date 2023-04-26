@@ -1,0 +1,50 @@
+.stock-data {
+    width: 100%;
+    color: aliceblue;
+    margin: auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.form-container{
+    width: 100%;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: blanchedalmond;
+    align-content: center;
+}
+
+h1 {
+    color: black;
+    font-family: fantasy;
+    align-items: center;
+    
+}
+
+input {
+    font-family: fantasy;
+}
+
+.alert {
+    padding: 20px;
+    margin: 5px;
+    color: #970020;
+    background-color: #ffd5de;  
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
